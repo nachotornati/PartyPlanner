@@ -1,5 +1,5 @@
 # PartyPlanner: Proyecto Final de Programación Web
-Se desarrolló un sistema web que permite la creación de eventos/fiestas donde los invitados seran notificados **via mail** de la fiesta y con un codigo podrán controlar su asistencia a la fiesta.
+Se desarrolló una aplicacion web que permite la creación de eventos/fiestas donde los invitados seran notificados **via mail** de la fiesta y con un codigo podrán controlar su asistencia a la fiesta.
 
 ## Requisitos
 Para la lectura del codigo, con un editor de texto  es suficiente. Se recomienda **Sublime Text**.
